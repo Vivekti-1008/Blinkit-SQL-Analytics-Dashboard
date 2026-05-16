@@ -49,8 +49,9 @@ It includes advanced SQL analytics and an interactive Streamlit dashboard for bu
 ---
 
 ## 📷 Dashboard Preview
+<img width="1840" height="817" alt="Screenshot 2026-05-16 121512" src="https://github.com/user-attachments/assets/d7f51d25-5078-428d-9ad4-a23c37be0da8" />
 
-(Add screenshots here)
+<img width="1885" height="909" alt="image" src="https://github.com/user-attachments/assets/827b8900-34aa-490f-a853-57a19c878144" />
 
 ---
 
